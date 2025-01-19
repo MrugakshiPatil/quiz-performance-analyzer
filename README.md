@@ -33,5 +33,4 @@ Usage:
              python analyze_performance.py
 3.View Recommendations:
              After running the program, you will receive personalized feedback and study suggestions based on your quiz results.
-![ image alt ](https://github.com/MrugakshiPatil/quiz-performance-analyzer/blob/aeeea3d769ae636f7bdd87779cf51c778aea0d3f/excecuted%20code%20(1).png)
-
+![ image alt ](https://github.com/MrugakshiPatil/quiz-performance-analyzer/blob/a72587dbb14596a376b18de7f2e69ca5c04a8ffc/excecuted%20code%20(1).png)
